@@ -9,7 +9,7 @@
 
 Learn more on my [portfolio](https://rugvedmhatre.github.io/)
 
-## Conected with me:
+## Connect with me:
 
 <a href="https://twitter.com/rugs_mhatre" target="_blank">Twitter</a>
 
