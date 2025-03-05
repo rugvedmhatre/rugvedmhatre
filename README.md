@@ -7,7 +7,7 @@
 
 ## Connect with me
 - 🌐 Learn more on my [website](https://rugvedmhatre.github.io/)!
-- :necktie: [LinkedIn](https://www.linkedin.com/in/rugved-mhatre/) - If you've got a short question or would like to connect, drop a message and I'll get back to you soon.
-- :email: [Email](mailto:rugved.mhatre+web@nyu.edu) - If it's a longer thing, feel free to email me!
+- :necktie: If you've got a short question or would like to connect, drop a message on [LinkedIn](https://www.linkedin.com/in/rugved-mhatre/) and I'll get back to you soon.
+- :email: If it's a longer thing, feel free to [email](mailto:rugved.mhatre+web@nyu.edu) me!
 
 
